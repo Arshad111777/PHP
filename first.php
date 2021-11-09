@@ -1,4 +1,4 @@
-<!-- Display PHP Code  -->
+<!-- Display First PHP Code  -->
 <?php
 
 echo  "<h1> Hello" . " I Am " . " Arshad Ali" . " </h1> <br/><br/>";
